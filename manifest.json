@@ -1,7 +1,7 @@
 {
   "id": "media-plugin",
   "name": "Media Viewer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Image and video viewer with zoom support for jpg, png, gif, svg, webp, mp4, webm, and more.",
   "entry": "index.js",
   "quipuVersion": ">=0.14.0",
